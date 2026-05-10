@@ -21,8 +21,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/cbr-currency-parser.git
-   cd cbr-currency-parser
+   git clone https://github.com/CloHiK/cbr-parser
+   cd cbr-parser
    ```
 
 2. Установите зависимости:
@@ -43,6 +43,7 @@ python main.py
 - Создаст файл `rates.html` с таблицей курсов.
 
 Откройте `rates.html` в браузере для просмотра результатов.
+С каждым новым запуском рекомендуется удалять `rates.html` для точечного вывода данных.
 
 ## Пример вывода
 
@@ -75,7 +76,7 @@ python main.py
 
 ## Автор
 
-[Ваше имя] - [ваш email или GitHub]
+CloHiK - https://github.com/CloHiK
 
 ## Вклад в проект
 
