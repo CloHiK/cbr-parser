@@ -126,6 +126,9 @@ html = f"""<!DOCTYPE html>
             </tr>
         </tbody>
     </table>
+    <p>Данные получены с сайта <a href="https://cbr.ru/">Центрального банка РФ</a>.</p>
+    <p>Автор: CloHiK</p>
+    <p><b>Для обновления данных удалите rates.html, а после вновь запустите скрипт main.py.</b></p>
 </body>
 </html>
 """
